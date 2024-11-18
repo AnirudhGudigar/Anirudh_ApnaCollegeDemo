@@ -1,3 +1,4 @@
 hi 
 created new repository and file and typing some content into it.
 making changes in feature1 to check how branches work 
+trying to merge branches and create conflicts 
