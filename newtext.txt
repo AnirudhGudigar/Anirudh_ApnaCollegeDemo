@@ -1,0 +1,2 @@
+hi 
+created new repository and file and typing some content into it.
